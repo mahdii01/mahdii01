@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm mahdi</h1>
 <h3 align="center">A web/frontend developer that can do magic with the codes</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdii01&label=Profile%20views&color=0e75b6&style=flat" alt="mahdii01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdii01" alt="mahdii01" /></a> </p>
+- 👯 I’m looking to collaborate on **front-end project**
 
-- 👯 I’m looking to collaborate on **front-end**
-
-- 📫 How to reach me?send email **program.developer@gmail.com**
+- 📫 How to reach me?send email **program.developer22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdii01&show_icons=true&locale=en" alt="mahdii01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdii01&" alt="mahdii01" /></p>
-
